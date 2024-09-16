@@ -1,0 +1,2 @@
+PyPAC==0.16.4
+ttkthemes==3.2.2
